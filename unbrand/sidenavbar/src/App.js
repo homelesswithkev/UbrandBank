@@ -1,8 +1,13 @@
 import "./App.css";
-import sidebar
+import React from "react";
+import SideNavBar from "./components/SideNavBar";
 
 function App() {
-  return <div className="App">sidebar</div>;
+  return (
+    <div className="App">
+      <SideNavBar />
+    </div>
+  );
 }
 
 export default App;
