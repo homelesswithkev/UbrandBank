@@ -1,4 +1,0 @@
-module.exports = {
- Presents:{'module:metro-react-native'}
- plugins: {}
-};
